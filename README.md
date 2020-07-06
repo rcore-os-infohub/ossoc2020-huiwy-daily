@@ -23,3 +23,6 @@
 
 ## <span id="1"> Day 1 </span> 
 - finished part of rustlings
+
+## Day 2
+- finished part of rustlings, easy.
