@@ -35,6 +35,18 @@ impl Default for Person {
 // Otherwise, then return an instantiated Person object with the results
 impl From<&str> for Person {
     fn from(s: &str) -> Person {
+        if s.len()==0 {
+            return Person::default();
+        }
+        
+        let args:Vec<&str>=s.split(',').collect();
+        let name=args[0];
+
+        if let Ok(age)=args[1].parse(){
+            Person{name:name.to_string(),age:age}
+        }else{
+            Person::default()
+        }
     }
 }
 

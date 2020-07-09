@@ -29,3 +29,6 @@
 
 ## Day 3
 - finished part of rustlings, finished the last project of last semester, formally start rcore tomorrow
+
+## Day 4
+- finished rustlings, Hard
