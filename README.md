@@ -37,5 +37,5 @@
 - finished lab0
 
 ## <span id="6"> Day 6 </span> 
-- my Manjaro and Ubuntu on portable ssd died, plan to buy a new pc for developing
+- my manjaro and Ubuntu on portable ssd died, plan to buy a new pc for developing
 
