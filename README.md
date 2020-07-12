@@ -7,7 +7,7 @@
 | Mon                    | Tues                   | Wed                    | Thur                   | Fri                    | Sat                    | Sun                    |
 |------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
 |                        |                        | 1                      | 2                      | 3                      | 4       | 5                     |
-| 6     <br>([D0](#0))                 | 7      <br>([D1](#1))                 | 8        <br>([D2](#2))              | 9      <br>([D3](#3))                | 10    <br>([D4](#4))                 | 11            <br>([D5](#5))         | 12                     |
+| 6     <br>([D0](#0))                 | 7      <br>([D1](#1))                 | 8        <br>([D2](#2))              | 9      <br>([D3](#3))                | 10    <br>([D4](#4))                 | 11            <br>([D5](#5))         | 12           <br>([D6](#6))           |
 | 13                     | 14                     | 15                     | 16                     | 17                     | 18                     | 19                     |
 | 20                     | 21                     | 22                     | 23                     | 24                     | 25                     | 26                     |
 | 27                     | 28                     | 29                     | 30                     | 31                     |                        |                        |
@@ -38,4 +38,7 @@
 
 ## <span id="6"> Day 6 </span> 
 - my Manjaro and Ubuntu on portable ssd died, plan to buy a new pc for developing
+
+## <span id="7"> Day 7 </span> 
+- I have not received my new pc, hard. Do a little rust programming. Work more other topics so I can spend more time on rCore later
 
