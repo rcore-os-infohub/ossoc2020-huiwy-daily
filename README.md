@@ -37,7 +37,7 @@
 - finished lab0
 
 ## <span id="6"> Day 6 </span> 
-- my Manjaro and Ubuntu on portable ssd died, plan to buy a new pc for developing
+- my manjaro and Ubuntu on portable ssd died, plan to buy a new pc for developing
 
 ## <span id="7"> Day 7 </span> 
 - I have not received my new pc, hard. Do a little rust programming. Work more other topics so I can spend more time on rCore later
