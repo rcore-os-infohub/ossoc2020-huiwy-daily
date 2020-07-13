@@ -42,3 +42,5 @@
 ## <span id="7"> Day 7 </span> 
 - I have not received my new pc, hard. Do a little rust programming. Work more other topics so I can spend more time on rCore later
 
+## <span id="8"> Day 9 </span> 
+- Still haven't got it. Study OS and read rCore document.
