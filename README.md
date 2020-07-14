@@ -46,4 +46,4 @@
 - Still haven't got it. Study OS and read rCore document.
 
 ## <span id="9"> Day 9 </span> 
-- Finished learning processes.
+- Finished processes in OS.
