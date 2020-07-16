@@ -48,5 +48,8 @@
 ## <span id="9"> Day 9 </span> 
 - Finished processes in OS.
 
-## <span id="10> Day 10 </span>
+## <span id="10"> Day 10 </span>
 - The speed of speech of Kubi, the profosser in UCB teaching OS is too fast, Switched to Tsinghua's, finished watching 1/3.
+
+## <span id="11"> Day 11 </span>
+- Watched more than half of OS course with no exercises.
