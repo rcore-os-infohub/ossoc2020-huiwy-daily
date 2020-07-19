@@ -58,4 +58,4 @@
 - Set up the environment on the new pc, finished lab0, still learning os.
 
 ## <span id="13"> Day 13 </span>
-- For some unknown reasons, the previous daily report is not pushed. finished lab1, understood most part of lab2 with some notes.
+- For some unknown reasons, the previous daily report is not pushed. finished lab1, understood most part of lab2 with some notes. The reason why I don't use Chinese is that I don't have a Chinese input method.
