@@ -16,7 +16,7 @@
 
 
 
- ##  <span id="0"> Day 0 </span>
+##  <span id="0"> Day 0 </span>
 
 - start learning Rust
 - start lab0
@@ -53,3 +53,9 @@
 
 ## <span id="11"> Day 11 </span>
 - Watched more than half of OS course with no exercises.
+
+## <span id="12"> Day 12 </span>
+- Set up the environment on the new pc, finished lab0, still learning os.
+
+## <span id="13"> Day 13 </span>
+- For some unknown reasons, the previous daily report is not pushed. finished lab1, understood most part of lab2 with some notes.
