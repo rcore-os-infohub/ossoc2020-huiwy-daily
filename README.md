@@ -59,3 +59,6 @@
 
 ## <span id="13"> Day 13 </span>
 - For some unknown reasons, the previous daily report is not pushed. finished lab1, understood most part of lab2 with some notes. The reason why I don't use Chinese is that I don't have a Chinese input method.
+
+## <span id="14"> Day 14 </span>
+- Start lab3, finally found the correct version of course to watch (the risc-v version), and found that I haven't installed Rust Language Server. Efficiency improved.
