@@ -62,3 +62,6 @@
 
 ## <span id="14"> Day 14 </span>
 - Start lab3, finally found the correct version of course to watch (the risc-v version), and found that I haven't installed Rust Language Server. Efficiency improved.
+
+## <span id="15"> Day 15 </span>
+- Finish the report of lab3, finished OS course, read all the tutorials, have an overview of rCore as a whole. Start lab4 a little.
